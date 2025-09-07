@@ -23,7 +23,7 @@ and the vulnerability is in the product category filter, we should do UNION base
 #### START HACKING!!!
 1) Imagine the query  
 ```sql
-SELECT something WHERE category = ''
+SELECT * FROM products WHERE category = '';
 ```
 2) Enter '
 3) We get a 500 error – this is a good sign, as it suggests our input broke the query, indicating SQL injection 
