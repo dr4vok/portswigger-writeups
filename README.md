@@ -16,7 +16,6 @@ Each lab is documented with:
 - 🛠️ **Tools used**
 - 🚀 **Step-by-step exploitation**
 - 🧰 **Payloads and code snippets**
-- 🛡️ **Mitigation strategies**
 - 🧵 **Reflections and takeaways**
 
 ---
