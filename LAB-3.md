@@ -50,5 +50,5 @@ so now lets build our payload
 ### 4. Proof of Success
 - We can see the database version
 ## 🧵 Reflection
-> What is the table that Oracle has as a dummy? \ 
+> What is the table that Oracle has as a dummy?
 > How to retrieve the version of the Oracle database?
