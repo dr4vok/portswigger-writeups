@@ -11,7 +11,7 @@ SQLI
 
 ## 🚀 Exploitation Steps
 #### Observe the description
-> Before diving into the lab, we’re told it's using an Oracle database, which has a special dummy table called `dual`. so the statment looks like this 
+> Before diving into the lab, we’re told it's using an Oracle database, which has a special dummy table called `dual`. so the statement looks like this 
 ```sql 
 UNION SELECT 'abc' FROM dual
 ``` 
@@ -35,7 +35,7 @@ but first we need to define the numbers of coulmns of the database so we do
 ```sql
 ' UNION SELECT NULL FROM dual -- 
 ```
-we still get 500 , which means our statment is wrong , so we will put another NULL 
+we still get 500 , which means our statement is wrong , so we will put another NULL 
 
 ```sql
 ' UNION SELECT NULL ,NULL FROM dual -- 
