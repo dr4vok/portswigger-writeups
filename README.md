@@ -35,24 +35,11 @@ Each folder contains markdown files for individual labs, organized by vulnerabil
 
 ## 🧵 About Me
 
-I'm **shadow**, an ethical hacker and cybersecurity enthusiast. I'm currently building my own hacking company focused on penetration testing, red teaming, and security education.
+I'm **dravok**, an ethical hacker and cybersecurity enthusiast. I'm currently building my own hacking company focused on penetration testing, red teaming, and security education.
 
 This repo is part of my journey to master offensive security and contribute to the community. Feel free to fork, star, or reach out if you want to collaborate.
 
 ---
-
-## 📬 Contact & Socials
-
-- Website: *Coming Soon*
-- Twitter: [shad0ws0ldier](https://x.com/shad0ws0lder)
-- LinkedIn: [shadows0ldier](https://linkedin.com/in/shadow-s0ldier-6715a3377)
-- Instagram: [shadows0ldier](https://www.instagram.com/shadows0ldier)
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License. Feel free to use and adapt the content with attribution.
 
 
 
