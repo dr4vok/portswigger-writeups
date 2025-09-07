@@ -10,7 +10,7 @@ SQLI
 - burp suite
 
 ## 🚀 Exploitation Steps
-#### Observer the description
+#### Observe the description
 > We now know that there is a user called administrator
 
 #### Access the lab
@@ -43,3 +43,4 @@ if we try this it will work!
 
 ## 🧵 Reflection
 > How to inject in login pages?
+
