@@ -33,11 +33,8 @@ Each folder contains markdown files for individual labs, organized by vulnerabil
 
 ---
 
-## 🧵 About Me
-
-I'm **dravok**, an ethical hacker and cybersecurity enthusiast. I'm currently building my own hacking company focused on penetration testing, red teaming, and security education.
-
-This repo is part of my journey to master offensive security and contribute to the community. Feel free to fork, star, or reach out if you want to collaborate.
+## 🙏 Special Thanks To
+[David](https://github.com/D-AnonymousColdBlooded999)
 
 ---
 
