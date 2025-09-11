@@ -33,11 +33,7 @@ Each folder contains markdown files for individual labs, organized by vulnerabil
 
 ---
 
-## 🙏 Special Thanks To
-[David](https://github.com/D-AnonymousColdBlooded999)
-
----
-
+## Don't forget to add a star!!
 
 
 
