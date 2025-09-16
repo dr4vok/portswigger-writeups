@@ -25,5 +25,5 @@ We got to know that this lab contains information disclosure , which falls into 
 ConnectionBuilder connectionBuilder = ConnectionBuilder.from
 ```
 ## 🧵 Reflection
-> what is information disclousre vulnerability?
+> what is information disclousre vulnerability? \ 
 > What is /robots.txt ? 
